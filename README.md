@@ -1,2 +1,5 @@
 # introduction-to-github
-Google IT Automation with Python Project for Introduction to GitHub. Part of Bangkit Academy 2022 Machine Learning learning path studies.
+I am editing the README file. Adding some more details about the project description.
+
+This repository is part of the Google IT Automation with Python: Introduction to Git and GitHub.
+This repository is also part of Bangkit Academy 2022 Machine Learning learning path studies.
